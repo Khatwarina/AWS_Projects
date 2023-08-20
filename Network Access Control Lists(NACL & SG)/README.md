@@ -20,7 +20,7 @@ AWS (Amazon Web Services) provides multiple layers of security to protect resour
         They are stateless, which means that if an inbound rule allows traffic, the corresponding outbound traffic must be explicitly allowed using a separate outbound rule.
         Changes made to NACL rules may take some time to propagate to all the resources using the associated subnet.
 
-## Project Implemented in the video
+## Project Implemented
 
 
 ![Screenshot 2023-06-29 at 12 14 32 AM](https://github.com/iam-veeramalla/aws-devops-zero-to-hero/assets/43399466/30bbc9e8-6502-438b-8adf-ece8b81edce9)
